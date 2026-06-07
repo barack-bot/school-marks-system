@@ -1,17 +1,3 @@
--- ============================================================================
--- IRANDA SCHOOL - SIMPLIFIED SPREADSHEET SYSTEM
--- Database Schema v2.0 - Clean & Simple
--- ============================================================================
-
--- Drop existing tables
-DROP TABLE IF EXISTS marks CASCADE;
-DROP TABLE IF EXISTS class_subjects CASCADE;
-DROP TABLE IF EXISTS teacher_assignments CASCADE;
-DROP TABLE IF EXISTS students CASCADE;
-DROP TABLE IF EXISTS subjects CASCADE;
-DROP TABLE IF EXISTS classes CASCADE;
-DROP TABLE IF EXISTS levels CASCADE;
-DROP TABLE IF EXISTS users CASCADE;
 
 -- ============================================================================
 -- CORE TABLES
